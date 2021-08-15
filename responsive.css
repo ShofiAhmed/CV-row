@@ -1,0 +1,411 @@
+@media only screen and (min-width: 712px) and (max-width: 991px){
+    body{
+   margin: 0;
+   padding: 0;
+   font-family: cursive;
+}
+    
+.main{
+    margin: 0 auto;
+    width: 712px;
+    background: #ecf0f1;
+    
+}
+.header_left{
+    float: left;
+    width: 300px;
+    margin-left: 60px;
+    margin-top: 10px;
+    line-height: normal;
+    font-size: 20px;
+    background: #f1c40f;
+    padding: 5px;
+}
+ .header_right{
+    float: right;
+    width: 300px;
+}
+.header_right img{
+    height: 110px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+    
+.edu_qualification{
+    padding-top: 10px;
+    background: #f39c12;
+    padding-left: 10px;
+    height: 500px;
+    
+}
+.edu_qu{
+   background: #f1c40f;
+   width: 70%;
+    height: 450px;
+     margin-left: 13%;
+    padding-left: 3%;
+   
+}
+    table{
+        width: 400px;
+        height: 300px;
+    }
+    
+ .references{
+    text-align: center;
+    background: #f1c40f;
+    padding-top: 1px;
+    height: 245px;
+    padding-left: 200px;
+   
+}
+.ref{
+    background:  #f39c12;
+    width: 70%;
+    
+}
+    footer{
+    background: #f39c12;
+    height: 45px;
+   
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 330px;
+}
+    
+}
+
+@media only screen and (min-width: 580px) and (max-width: 712px) {
+   body{
+   margin: 0;
+   padding: 0;
+   font-family: cursive;
+}
+h1{
+    color: #34495e;
+}
+.main{
+    margin: 0 auto;
+    width: 580px;
+    background: #ecf0f1;
+    
+    
+}
+.header{
+    
+    height: 150px;
+    border-bottom: 2px solid grey;
+    background:#f39c12;
+    padding-top: 10px;
+}
+.header_left{
+    float: left;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 10px;
+    line-height: normal;
+    font-size: 20px;
+    background: #f1c40f;
+    padding: 5px;
+}
+.header_left strong{
+    font-size: 30px;
+    color: #34495e;
+}
+.header_right{
+    float: right;
+    width: 200px;
+}
+
+.header_right img{
+    height: 110px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+
+.personal_info{
+    padding-top: 15px;
+    margin-top: 0;
+    height: 460px;
+    background: #f1c40f;
+  
+}
+.p_info{
+    width: 70%;
+    margin-left: 14%;
+    height: 400px;
+    padding-top: %;
+    padding-left: 3%;
+    background: #f39c12;
+}
+.edu_qualification{
+    padding-top: 10px;
+    background: #f39c12;
+    padding-left: 10px;
+    height: 460px;
+    
+}
+.edu_qu{
+     background: #f1c40f;
+     width: 80%;
+     height: 420px;
+     margin-left: 8%;
+     padding-left: 3%;
+   
+}
+table{
+        width: 200px;
+        height: 320px;
+    }
+.skillandoth{
+    height: 230px;
+    background: #f1c40f;
+    padding: 10px;
+    
+}
+.skills{
+    float: left;
+    width: 40%;
+    height: 220px;
+    
+    background: #d35400;
+    padding-right: 5px;
+}
+.other_skills{
+    float: right;
+    width: 50%;
+    height: 220px;
+    background: #e67e22;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.workandint{
+    height: 210px;
+    background: #f39c12;
+    padding: 10px;
+}
+.experience{
+    width: 50%;
+    height: 200px;
+    float: left;
+    background:#e67e22;
+    padding-left: 15px;
+}
+.interests{
+    width: 40%;
+    height: 200px;
+    float: right;
+    background: #d35400;
+    padding-left: 15px;
+}
+.references{
+    text-align: center;
+    background: #f1c40f;
+    padding-top: 1px;
+    height: 245px;
+    padding-left: 150px;
+   
+}
+.ref{
+    background:  #f39c12;
+    width: 70%;
+   
+}
+   table, th, td {
+                  border: 1px solid black;
+                  border-collapse: collapse;
+                  }
+
+footer{
+    background: #f39c12;
+    height: 45px;
+   
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 250px;
+}
+
+footer p{
+    
+    background: #f1c40f;
+    width: 80px;
+    padding-left: 10px;
+}
+}
+
+
+
+@media (min-width: 320px) and (max-width: 579px) {
+    body{
+   margin: 0;
+   padding: 0;
+   font-family: cursive;
+}
+h1{
+    color: #34495e;
+    
+}
+.main{
+    margin: 0 auto;
+    width: 320px;
+    background: #ecf0f1;
+    
+    
+}
+.header{
+    
+    height: 200px;
+    border-bottom: 2px solid grey;
+    background:#f39c12;
+}
+.header_left{
+    float: left;
+    width: 150px;
+    margin-left: 5px;
+    margin-top: 5px;
+    line-height: normal;
+    font-size: 10px;
+    background: #f1c40f;
+    padding: 5px;
+}
+    .header_left h1{
+        font-size: 10px;
+    }
+.header_left strong{
+    font-size: 30px;
+    color: #34495e;
+}
+.header_right{
+    float: right;
+    width: 120px;
+}
+
+.header_right img{
+    height: 110px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+
+.personal_info{
+    padding-top: 15px;
+    margin-top: 0;
+    height: 510px;
+    background: #f1c40f;
+  
+}
+.p_info{
+    width: 88%;
+    margin-left: 4%;
+    height: 460px;
+    padding-top: %;
+    padding-left: 2%;
+    background: #f39c12;
+}
+.edu_qualification{
+    padding-top: 10px;
+    background: #f39c12;
+    padding-left: 5px;
+    height: 520px;
+    
+}
+.edu_qu{
+   background: #f1c40f;
+   width: 90%;
+   height: 480px;
+   margin-left: 3%;
+   padding-left: 3%;
+   
+}
+    table{
+        width: 150px;
+        font-size: 10px;
+        height: 350px;
+    }
+.skillandoth{
+    height: 430px;
+    background: #f1c40f;
+  
+    font-size: 15spx;
+    
+}
+.skills{
+   
+    width: 280px;
+    height: 200px;
+    background: #d35400;
+    margin-bottom: 10px;
+    
+}
+.other_skills{
+    
+    width: 280px;
+    height: 220px;
+    background: #e67e22;
+  
+}
+
+.workandint{
+    height: 410px;
+    background: #f39c12;
+    padding: 10px;
+    font-size: 15px;
+}
+.experience{
+    width: 280px;
+    height: 200px;
+   
+    background:#e67e22;
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+.interests{
+    width: 280px;
+    height: 200px;
+   
+    background: #d35400;
+    padding-left: ;
+}
+.references{
+    text-align: center;
+    background: #f1c40f;
+    padding-top: 1px;
+    height: 235px;
+    padding-left: 19px;
+   
+}
+.ref{
+    background:  #f39c12;
+    width: 280px;
+    font-size: 15px;
+   
+}
+   table, th, td {
+                  border: 1px solid black;
+                  border-collapse: collapse;
+                  }
+
+footer{
+    background: #f39c12;
+    height: 45px;
+   
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 110px;
+}
+
+footer p{
+    
+    background: #f1c40f;
+    width: 80px;
+    padding-left: 10px;
+}
+}

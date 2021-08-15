@@ -1,0 +1,152 @@
+body{
+   margin: 0;
+   padding: 0;
+   font-family: cursive;
+}
+h1{
+    color: #34495e;
+}
+.main{
+    margin: 0 auto;
+    width: 960px;
+    background: #ecf0f1;
+    
+    
+}
+.header{
+    
+    height: 140px;
+    border-bottom: 2px solid grey;
+    background:#f39c12;
+}
+.header_left{
+    float: left;
+    width: 300px;
+    margin-left: 60px;
+    margin-top: 10px;
+    line-height: normal;
+    font-size: 20px;
+    background: #f1c40f;
+    padding: 5px;
+}
+.header_left strong{
+    font-size: 30px;
+    color: #34495e;
+}
+.header_right{
+    float: right;
+    width: 300px;
+}
+
+.header_right img{
+    height: 110px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+
+
+.personal_info{
+    padding-top: 15px;
+    margin-top: 0;
+    height: 410px;
+    background: #f1c40f;
+  
+}
+.p_info{
+    width: 70%;
+    margin-left: 14%;
+    height: 350px;
+    padding-top: %;
+    padding-left: 3%;
+    background: #f39c12;
+}
+.edu_qualification{
+    padding-top: 10px;
+    background: #f39c12;
+    padding-left: 10px;
+    height: 500px;
+    
+}
+.edu_qu{
+   background: #f1c40f;
+   width: 70%;
+    height: 450px;
+     margin-left: 13%;
+    padding-left: 3%;
+   
+}
+.skillandoth{
+    height: 210px;
+    background: #f1c40f;
+    padding: 10px;
+}
+.skills{
+    float: left;
+    width: 40%;
+    height: 200px;
+    padding-left: 10px;
+    background: #d35400;
+}
+.other_skills{
+    float: right;
+    width: 50%;
+    height: 200px;
+    background: #e67e22;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.workandint{
+    height: 210px;
+    background: #f39c12;
+    padding: 10px;
+}
+.experience{
+    width: 50%;
+    height: 200px;
+    float: left;
+    background:#e67e22;
+    padding-left: 15px;
+}
+.interests{
+    width: 40%;
+    height: 200px;
+    float: right;
+    background: #d35400;
+    padding-left: 15px;
+}
+.references{
+    text-align: center;
+    background: #f1c40f;
+    padding-top: 1px;
+    height: 225px;
+    padding-left: 200px;
+   
+}
+.ref{
+    background:  #f39c12;
+    width: 70%;
+   
+}
+   table, th, td {
+                  border: 1px solid black;
+                  border-collapse: collapse;
+                  }
+
+footer{
+    background: #f39c12;
+    height: 45px;
+   
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    padding-left: 430px;
+}
+
+footer p{
+    
+    background: #f1c40f;
+    width: 80px;
+    padding-left: 10px;
+}
